@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ouwf_7_1.PNG"
+  avatar           : "ouwf_7.png"
   name             : "Weifeng Ou (欧伟枫)"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer, BEng GDUT, MEng SCUT, PhD CityU HK, MIEEE"
