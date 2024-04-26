@@ -34,4 +34,4 @@ author_profile: true
 5. **WF Ou**, CL Yang, WH Li, LH Ma, “A two-stage multi-hypothesis reconstruction scheme in compressed video sensing,” 2016 IEEE International Conference on Image Processing (ICIP), 2494-2498, 2016.
 
 ## Others
-* Invited Publication of Paper Summary in IEEE Biometrics Council Newsletter, Vol 43, 2022. [(PDF)](https://ieee-biometrics.org/publications/newsletter/)
+* Invited Paper Summary published in IEEE Biometrics Council Newsletter, Vol 43, 2022. [(PDF)](https://ieee-biometrics.org/publications/newsletter/)
