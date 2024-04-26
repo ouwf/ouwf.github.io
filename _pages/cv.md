@@ -16,7 +16,8 @@ Lecturer, [School of Computer Science & Technology](https://cs.dgut.edu.cn/index
 
 # Research interests
 * Biometrics
-* Computer Vision
+* Computer vision
+* Image & video processing
 
 # Education
 * Ph. D. in Electrical Engineering, City University of Hong Kong, 2021.
