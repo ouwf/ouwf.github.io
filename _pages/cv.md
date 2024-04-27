@@ -9,12 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-
 Lecturer, [School of Computer Science & Technology](https://cs.dgut.edu.cn/index.htm), [Dongguan University of Technology](https://www.dgut.edu.cn/)
 
-
-
-# Research interests
+# Research Interests
 * Biometrics
 * Computer vision
 * Image & video processing
@@ -56,7 +53,7 @@ Lecturer, [School of Computer Science & Technology](https://cs.dgut.edu.cn/index
 4. **WF Ou**, LM Po, C Zhou, YAU Rehman, PF Xian, YJ Zhang, “Fusion Loss and Inter-class Data Augmentation for Deep Finger Vein Feature Learning,” Expert Systems with Applications, 171, 114584, 2021.
 5. **WF Ou**, LM Po, C Zhou, YJ Zhang, LT Feng, YAU Rehman, YZ Zhao, “LinCos-softmax: Learning angle-discriminative face representations with linearity-enhanced cosine logits,” IEEE Access, 8, 109758-109769, 2020.
 6. **WF Ou**, CL Yang, WH Li, LH Ma, “A two-stage multi-hypothesis reconstruction scheme in compressed video sensing,” 2016 IEEE International Conference on Image Processing (ICIP), 2494-2498, 2016.
-7. **WF Ou**, CL Yang, C Dai, “A two-stage multi-hypothesis reconstruction and two implementation schemes for compressed video sensing,” Journal of Electronics & Information Technology (电子与信息学报), 39 (7), 1688-1696.
+7. **WF Ou**, CL Yang, C Dai, “A two-stage multi-hypothesis reconstruction and two implementation schemes for compressed video sensing,” Journal of Electronics & Information Technology (电子与信息学报), 39 (7), 1688-1696, 2017.
 8. XF Huang, LM Po, **WF Ou**, “Motion Transfer-Driven Intra-Class Data Augmentation for Finger Vein Recognition,” 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
 9. C Zhou, LM Po, **WF Ou**, “Angular deep supervised vector quantization for image retrieval,” IEEE Transactions on Neural Networks and Learning Systems, 33 (4), 1638-1649, 2020.
 10. C Zhou, LM Po, **WF Ou**, PF Xian, KW Cheung, “Deep triplet residual quantization,” Expert Systems with Applications, 184, 115467, 2021.
@@ -72,7 +69,7 @@ Lecturer, [School of Computer Science & Technology](https://cs.dgut.edu.cn/index
 20. CL Yang, **WF Ou**, “Multi-reference frames-based optimal multi-hypothesis prediction in compressed video sensing,” Journal of South China University of Technology (Natural Science Edition) (华南理工大学学报), 44 (1), 1-8, 2016.
 
 # Others
-* Invited Paper Summary Published in [IEEE Biometrics Council Newsletter](https://ieee-biometrics.org/publications/newsletter/), Vol 43, 2022.
+* Invited Paper Summary published in [IEEE Biometrics Council Newsletter](https://ieee-biometrics.org/publications/newsletter/), Vol 43, 2022.
 
 # Talks
 * Oral Presentation at ICASSP 2024 held in Seoul, Korea. [(Youtube)](https://youtu.be/Dlx5-vZDs7M), [(Bilibili)](https://www.bilibili.com/video/BV1tZ421n7pr/?share_source=copy_web&vd_source=c6aa2f1ae9ba773028f00e4b419716d5)

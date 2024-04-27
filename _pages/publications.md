@@ -23,7 +23,7 @@ author_profile: true
 11. **WF Ou**, LM Po, C Zhou, YJ Zhang, LT Feng, YAU Rehman, YZ Zhao, “LinCos-softmax: Learning angle-discriminative face representations with linearity-enhanced cosine logits,” IEEE Access, 8, 109758-109769, 2020.
 12. YJ Zhang, LM Po, MY Liu, YAU Rehman, **WF Ou**, YZ Zhao, “Data-level information enhancement: Motion-patch-based Siamese Convolutional Neural Networks for human activity recognition in videos,” Expert Systems with Applications, 147, 113203, 2020.
 13. YAU Rehman, LM Po, MY Liu, ZJ Zou, **WF Ou**, YZ Zhao, “Face liveness detection using convolutional-features fusion of real and deep network generated face images,” Journal of Visual Communication and Image Representation, 59, 574-582, 2019.
-14. **WF Ou**, CL Yang, C Dai, “A two-stage multi-hypothesis reconstruction and two implementation schemes for compressed video sensing,” Journal of Electronics & Information Technology (电子与信息学报), 39 (7), 1688-1696.
+14. **WF Ou**, CL Yang, C Dai, “A two-stage multi-hypothesis reconstruction and two implementation schemes for compressed video sensing,” Journal of Electronics & Information Technology (电子与信息学报), 39 (7), 1688-1696, 2017.
 15. CL Yang, **WF Ou**, “Multi-reference frames-based optimal multi-hypothesis prediction in compressed video sensing,” Journal of South China University of Technology (Natural Science Edition) (华南理工大学学报), 44 (1), 1-8, 2016.
 
 ## Conference Papers
