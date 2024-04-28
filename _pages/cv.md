@@ -78,6 +78,7 @@ Lecturer, [School of Computer Science & Technology](https://cs.dgut.edu.cn/index
 **Journal reviewer**
 * IEEE Transactions on Information Forensics & Security (T-IFS)
 * IEEE Transactions on Neural Networks & Learning Systems (T-NNLS)
+* Expert Systems with Applications
 * IEEE Transactions on Instrumentation & Measurement (T-IM)
 
 # Awards and Honors
