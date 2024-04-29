@@ -7,13 +7,14 @@ redirect_from:
   - /resume
 ---
 
-## [Dr. Weifeng Ou](https://ouwf.github.io/)
+[**Dr. Weifeng Ou**](https://ouwf.github.io/)  
 Lecturer  
 [School of Computer Science & Technology](https://cs.dgut.edu.cn/index.htm)  
 [Dongguan University of Technology](https://www.dgut.edu.cn/)  
 Office: 9A-204-11  
 Email: ouwf@dgut.edu.cn
 
+***
 # Research Interests
 * Biometrics
 * Computer vision
@@ -50,6 +51,7 @@ Email: ouwf@dgut.edu.cn
 * Deputy Programme Leader (Software Engineering), 2023 - present.
 
 # Publications
+**Journal & Conference Papers**  
 1. **WF Ou**, LM Po, XF Huang, "Joint Learning of Identity and Vein Features for Enhanced Representations in Vascular Biometrics," 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
 2. **WF Ou**, LM Po, XF Huang, WY Yu, YZ Zhao, "GSCL: Generative Self-Supervised Contrastive Learning for Vein-Based Biometric Verification," IEEE Transactions on Biometrics, Behavior, and Identity Science, 6 (2), 230-244, 2024.
 3. **WF Ou**, LM Po, C Zhou, PF Xian, JJ Xiong, “GAN-based Inter-class Sample Generation for Contrastive Learning of Vein Image Representations,” IEEE Transactions on Biometrics, Behavior, and Identity Science, 4 (2), 249-262, 2022.
@@ -71,7 +73,7 @@ Email: ouwf@dgut.edu.cn
 19. YZ Zhao, LM Po, TT Zhang, ZB Liao, X Shi, YJ Zhang, **WF Ou**, PF Xian, JJ Xiong, C Zhou, WY Yu, “Saliency map-aided generative adversarial network for raw to rgb mapping,” 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), 2019.
 20. CL Yang, **WF Ou**, “Multi-reference frames-based optimal multi-hypothesis prediction in compressed video sensing,” Journal of South China University of Technology (Natural Science Edition) (华南理工大学学报), 44 (1), 1-8, 2016.
 
-# Others
+**Others**
 * Invited Paper Summary published in [IEEE Biometrics Council Newsletter](https://ieee-biometrics.org/publications/newsletter/), Vol 43, 2022.
 
 # Talks
