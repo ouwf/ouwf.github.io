@@ -1,15 +1,18 @@
 ---
 layout: archive
-title: "Dr. Weifeng Ou"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Lecturer, [School of Computer Science & Technology](https://cs.dgut.edu.cn/index.htm), [Dongguan University of Technology](https://www.dgut.edu.cn/)
+## [Dr. Weifeng Ou](https://ouwf.github.io/)
+Lecturer  
+[School of Computer Science & Technology](https://cs.dgut.edu.cn/index.htm)  
+[Dongguan University of Technology](https://www.dgut.edu.cn/)  
+Office: 9A-204-11  
+Email: ouwf@dgut.edu.cn
 
 # Research Interests
 * Biometrics
