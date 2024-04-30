@@ -47,7 +47,7 @@ Email: ouwf@dgut.edu.cn
 # Teaching
 * Introduction to Artificial Intelligence (Undergraduate), 2024 Spring.
 * Software Design Patterns (Postgraduate), 2023 Fall.
-* Final Year Project Coordinator, 2024.
+* Final Year Project Supervisor, 2024.
 * Deputy Programme Leader (Software Engineering), 2023 - present.
 
 # Publications
