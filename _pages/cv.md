@@ -21,28 +21,28 @@ Email: ouwf@dgut.edu.cn
 * Image & video processing
 
 # Education
-* Ph. D. in Electrical Engineering, City University of Hong Kong, 2021.
+* 2018/09 ~ 2021/10: ***Ph. D. in Electrical Engineering***, City University of Hong Kong.
   * Supervisor: [Prof. Lai-Man Po](https://www.ee.cityu.edu.hk/~lmpo/index.html)
-* MEng in Signal & Information Processing, South China University of Technology, 2016.
+* 2013/09 ~ 2016/06: ***MEng in Signal & Information Processing***, South China University of Technology.
   * Supervisor: [Prof. Chun-Ling Yang](https://yanzhao.scut.edu.cn/open/ExpertInfo.aspx?zjbh=MHiFQelKANF-i3aswDtA4g==)
-* BEng in Information Engineering, Guangdong University of Technology, 2013.
+* 2009/09 ~ 2013/06: ***BEng in Information Engineering***, Guangdong University of Technology.
 
 # Work Experience
-* 2023/03 ~ present: **Lecturer**
+* 2023/03 ~ present: ***Lecturer***
   * School of Computer Science & Technology, Dongguan University of Technology.
-* 2021/11 ~ 2023/03: **Algorithm Researcher**
+* 2021/11 ~ 2023/03: ***Algorithm Researcher***
   * EIG Research Center, SenseTime Group Limited, Hong Kong.
-* 2018/06 ~ 2018/08: **Senior Research Assistant**
+* 2018/06 ~ 2018/08: ***Senior Research Assistant***
   * Department of Electronic Engineering, City University of Hong Kong.
   * Supervisor:  [Prof. Lai-Man Po](https://www.ee.cityu.edu.hk/~lmpo/index.html)
-* 2018/04 ~ 2018/05: **Research Assistant**
+* 2018/04 ~ 2018/05: ***Research Assistant***
   * Department of Computer Science, City University of Hong Kong.
   * Supervisor:  [Prof. Antoni B. Chan](https://www.cs.cityu.edu.hk/~abchan/)
-* 2016/07 ~ 2018/03: **R&D Engineer**
+* 2016/07 ~ 2018/03: ***R&D Engineer***
   * Central Software Institute, Huawei Technologies, Shenzhen.
 
 # Internship
-* 2015/07 ~ 2015/09: Intern R&D Engineer, Huawei Technologies, Shenzhen.
+* 2015/07 ~ 2015/09: ***Intern R&D Engineer***, Huawei Technologies, Shenzhen.
 
 # Teaching
 * Introduction to Artificial Intelligence (Undergraduate), 2024 Spring.
