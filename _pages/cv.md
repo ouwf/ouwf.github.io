@@ -85,7 +85,6 @@ Email: ouwf@dgut.edu.cn
 * IEEE Transactions on Neural Networks & Learning Systems (T-NNLS)
 * IEEE Transactions on Instrumentation & Measurement (T-IM)
 * Expert Systems with Applications
-* Information Fusion
 
 # Awards and Honors
 * The Outstanding Academic Performance Award for Research Degree Students, City University of Hong Kong, 2020.
