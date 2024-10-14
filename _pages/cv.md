@@ -45,6 +45,7 @@ Email: ouwf@dgut.edu.cn
 * 2015/07 ~ 2015/09: ***Intern R&D Engineer***, Huawei Technologies, Shenzhen.
 
 # Teaching
+* Data Analysis and Application with Python (Undergraduate), 2024 Fall.
 * Introduction to Artificial Intelligence (Undergraduate), 2024 Spring.
 * Software Design Patterns (Postgraduate), 2023 Fall.
 * Final Year Project Supervisor, 2024.
@@ -83,7 +84,9 @@ Email: ouwf@dgut.edu.cn
 **Journal reviewer**
 * IEEE Transactions on Information Forensics & Security (T-IFS)
 * IEEE Transactions on Neural Networks & Learning Systems (T-NNLS)
+* IEEE Transactions on Human-Machine Systems
 * IEEE Transactions on Instrumentation & Measurement (T-IM)
+* Neural Networks
 * Expert Systems with Applications
 
 # Awards and Honors
