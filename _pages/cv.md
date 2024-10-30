@@ -81,7 +81,7 @@ Email: ouwf@dgut.edu.cn
 * Oral Presentation at ICASSP 2024 held in Seoul, Korea. [(Youtube)](https://youtu.be/Dlx5-vZDs7M), [(Bilibili)](https://www.bilibili.com/video/BV1tZ421n7pr/?share_source=copy_web&vd_source=c6aa2f1ae9ba773028f00e4b419716d5)
 
 # Service
-**Reviewer of Academic Journal & Conference Papers**
+**Reviewer of Academic Journals & Conferences**
 * IEEE Transactions on Information Forensics & Security (T-IFS)
 * IEEE Transactions on Neural Networks & Learning Systems (T-NNLS)
 * IEEE Transactions on Human-Machine Systems (T-HMS)
