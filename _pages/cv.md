@@ -81,13 +81,14 @@ Email: ouwf@dgut.edu.cn
 * Oral Presentation at ICASSP 2024 held in Seoul, Korea. [(Youtube)](https://youtu.be/Dlx5-vZDs7M), [(Bilibili)](https://www.bilibili.com/video/BV1tZ421n7pr/?share_source=copy_web&vd_source=c6aa2f1ae9ba773028f00e4b419716d5)
 
 # Service
-**Journal reviewer**
+**Reviewer of Academic Journal & Conference Papers**
 * IEEE Transactions on Information Forensics & Security (T-IFS)
 * IEEE Transactions on Neural Networks & Learning Systems (T-NNLS)
-* IEEE Transactions on Human-Machine Systems
+* IEEE Transactions on Human-Machine Systems (T-HMS)
 * IEEE Transactions on Instrumentation & Measurement (T-IM)
-* Neural Networks
-* Expert Systems with Applications
+* Neural Networks (NN)
+* Expert Systems with Applications (ESWA)
+* IEEE International Conference on Acoustic, Speech & Signal Processing (ICASSP)
 
 # Awards and Honors
 * The Outstanding Academic Performance Award for Research Degree Students, City University of Hong Kong, 2020.
