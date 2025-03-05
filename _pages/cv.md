@@ -89,7 +89,7 @@ Email: ouwf@dgut.edu.cn
 * Neural Networks (NN)
 * Expert Systems with Applications (ESWA)
 * IEEE International Conference on Acoustic, Speech & Signal Processing (ICASSP)
-* International Joint Conference on Neural Networks (IJCNN)
+* IEEE International Joint Conference on Neural Networks (IJCNN)
 
 # Awards and Honors
 * The Outstanding Academic Performance Award for Research Degree Students, City University of Hong Kong, 2020.
