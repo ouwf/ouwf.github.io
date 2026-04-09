@@ -24,10 +24,8 @@ Dongguan University of Technology
 ## Education
 - **Ph.D. in Electrical Engineering**, City University of Hong Kong, *2018/09 – 2021/10*  
   Supervisor: Prof. Lai-Man Po  
-
 - **M.Eng. in Signal & Information Processing**, South China University of Technology, *2013/09 – 2016/06*  
   Supervisor: Prof. Chun-Ling Yang  
-
 - **B.Eng. in Information Engineering**, Guangdong University of Technology, *2009/09 – 2013/06*  
 
 ## Academic & Professional Experience
@@ -48,9 +46,7 @@ Dongguan University of Technology
 - Software Design Methods (Postgraduate), 2023 Fall  
 
 ## Publications
-
 ### Journal & Conference Papers
-
 1. **WF Ou**, LM Po, XF Huang, WY Yu, YZ Zhao,  "GSCL: Generative Self-Supervised Contrastive Learning for Vein-Based Biometric Verification,"  *IEEE Transactions on Biometrics, Behavior, and Identity Science*, 6(2): 230–244, 2024.
 2. **WF Ou**, LM Po, XF Huang, "Joint Learning of Identity and Vein Features for Enhanced Representations in Vascular Biometrics," *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024.
 3. XF Huang, LM Po, **WF Ou**, "Motion Transfer-Driven Intra-Class Data Augmentation for Finger Vein Recognition," *Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024.
