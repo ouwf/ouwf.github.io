@@ -16,14 +16,10 @@ Dongguan University of Technology
 📧 Email: ouwf@dgut.edu.cn  
 🌐 Homepage: https://ouwf.github.io/
 
----
-
 ## Research Interests
 - Biometrics  
 - Computer Vision  
 - Deep Learning  
-
----
 
 ## Education
 - **Ph.D. in Electrical Engineering**, City University of Hong Kong, *2018/09 – 2021/10*  
@@ -33,8 +29,6 @@ Dongguan University of Technology
   Supervisor: Prof. Chun-Ling Yang  
 
 - **B.Eng. in Information Engineering**, Guangdong University of Technology, *2009/09 – 2013/06*  
-
----
 
 ## Academic & Professional Experience
 - **Associate Professor**, Dongguan University of Technology, *2026/03 – present*  
@@ -46,16 +40,12 @@ Dongguan University of Technology
 - Research Assistant, City University of Hong Kong, *2018/04 – 2018/05*  
 - Software Engineer, Huawei Technologies, Shenzhen, *2016/07 – 2018/03*  
 
----
-
 ## Teaching
 - Deep Learning Frameworks and Applications (Undergraduate), 2026 Spring  
 - Software Design Patterns (Undergraduate), 2025 Fall  
 - Introduction to Artificial Intelligence (Undergraduate), 2024 Spring, 2025 Spring  
 - Data Analysis and Application with Python (Undergraduate), 2024 Fall  
 - Software Design Methods (Postgraduate), 2023 Fall  
-
----
 
 ## Publications
 
@@ -101,23 +91,15 @@ Dongguan University of Technology
 
 20. CL Yang, **WF Ou**, "Multi-Reference Frames-Based Optimal Multi-Hypothesis Prediction," *Journal of South China University of Technology*, 44(1): 1–8, 2016.
 
----
-
 ## Academic Service
 **Reviewer for**
-- IEEE T-IFS, T-NNLS, T-HMS, T-IM  
-- Neural Networks, ESWA  
-- ICASSP, IJCNN  
-
----
+- IEEE T-IFS, T-NNLS, T-BIOM, T-HMS, T-IM, ESWA, ICASSP, IJCNN, etc
 
 ## Awards & Honors
 - The Outstanding Academic Performance Award for Research Degree Students, City University of Hong Kong, 2020  
 - Excellent New Employee Award, Huawei, 2017  
 - First-class Scholarships (SCUT & GDUT), 2010~2015
 - National English Contest for College Students (Second Prize), 2011  
-
----
 
 ## Languages
 - Cantonese & Mandarin (Native)  
