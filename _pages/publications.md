@@ -32,6 +32,3 @@ author_profile: true
 4. YAU Rehman, LM Po, MY Liu, ZJ Zou, **WF Ou**, “Perturbing convolutional feature maps with histogram of oriented gradients for face liveness detection”, International Joint Conference: 12th International Conference on Computational Intelligence in Security for Information Systems (CISIS 2019) and 10th International Conference on EUropean Transnational Education (ICEUTE 2019) Seville, Spain, May 13th-15th, 2020.
 5. YZ Zhao, LM Po, TT Zhang, ZB Liao, X Shi, YJ Zhang, **WF Ou**, PF Xian, JJ Xiong, C Zhou, WY Yu, “Saliency map-aided generative adversarial network for raw to rgb mapping,” 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW), 2019.
 6. **WF Ou**, CL Yang, WH Li, LH Ma, “A two-stage multi-hypothesis reconstruction scheme in compressed video sensing,” 2016 IEEE International Conference on Image Processing (ICIP), 2494-2498, 2016.
-
-## Others
-* Invited Paper Summary published in [IEEE Biometrics Council Newsletter](https://ieee-biometrics.org/publications/newsletter/), Vol 43, 2022.
