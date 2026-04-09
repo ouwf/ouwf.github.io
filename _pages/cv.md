@@ -21,7 +21,7 @@ Dongguan University of Technology
 ## Research Interests
 - Biometrics  
 - Computer Vision  
-- Image & Video Processing  
+- Deep Learning  
 
 ---
 
