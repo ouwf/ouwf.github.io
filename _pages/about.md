@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Dr. Weifeng Ou
+# Weifeng Ou, Ph.D.
 Associate Professor  
 [School of Computer Science & Technology](https://cs.dgut.edu.cn/index.htm)  
 [Dongguan University of Technology](https://www.dgut.edu.cn/)  
