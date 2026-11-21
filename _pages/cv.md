@@ -36,7 +36,7 @@ Email: ouwf@dgut.edu.cn
 
 ## Research Grants
 - **National Natural Science Foundation of China (NSFC) Young Scientists Fund (C)**, *2026–2028*. Principal Investigator.
-- **Guangdong Provincial Young Innovative Talents Project**, *2025–2027*. Principal Investigator.
+- **Young Innovative Talents Project for Universities in Guangdong Province**, *2025–2027*. Principal Investigator.
 
 ## Teaching
 - Introduction to Artificial Intelligence (Undergraduate), 2024 Spring, 2025 Spring, 2026 Fall
